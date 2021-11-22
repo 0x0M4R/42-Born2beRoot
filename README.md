@@ -1,0 +1,2 @@
+# 42-Born2beRoot
+This project aims to allow the student to create a server powered up on a Virtual Machine. The idea is to use one of two the most well-known Linux-based OS to set up a fully functional and stricted-ruled system. At the end of this project you should be fully comfortable with the concept of Virtualization, as well as dealing with command-line based systems, partitioning memory with LVM, setting up SSH ports, MACs, Firewalls, among many other important concepts. 
